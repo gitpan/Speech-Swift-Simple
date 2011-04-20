@@ -51,7 +51,7 @@ require Speech::Swift;
 require Exporter;
 
 our @ISA = qw(Exporter);
-our $VERSION = '1.0';
+our $VERSION = '1.1';
 
 sub new
 {
